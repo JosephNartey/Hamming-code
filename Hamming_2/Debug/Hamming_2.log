@@ -1,0 +1,8 @@
+﻿  Hamming_1.cpp
+c:\users\user\documents\visual studio 2015\projects\hamming_2\hamming_2\hamming_1.cpp(9): warning C4101: 'c1': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\hamming_2\hamming_2\hamming_1.cpp(9): warning C4101: 'c3': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\hamming_2\hamming_2\hamming_1.cpp(9): warning C4101: 'c': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\hamming_2\hamming_2\hamming_1.cpp(9): warning C4101: 'dataatrec': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\hamming_2\hamming_2\hamming_1.cpp(9): warning C4101: 'c2': unreferenced local variable
+  Hamming_2.vcxproj -> c:\users\user\documents\visual studio 2015\Projects\Hamming_2\Debug\Hamming_2.exe
+  Hamming_2.vcxproj -> c:\users\user\documents\visual studio 2015\Projects\Hamming_2\Debug\Hamming_2.pdb (Partial PDB)
